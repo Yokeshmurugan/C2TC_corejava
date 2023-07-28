@@ -48,7 +48,7 @@ public void setAdress(String adress) {
 }
 
    public static void main(String[] args) {
-	   encapsulation e=new encapsulation(123,"yokisa","pondy");
+	   encapsulation e=new encapsulation(123,"yokesh","panruti");
 	   System.out.println(e.getId());
 	   System.out.println(e.getName());
 	   System.out.println(e.getAdress());
