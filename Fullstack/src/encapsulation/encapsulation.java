@@ -22,6 +22,9 @@ public encapsulation(int id, String name, String adress) {
 	this.name = name;
 	this.adress = adress;
 }
+public encapsulation(int id2, String name2, String adress2, int i) {
+	// TODO Auto-generated constructor stub
+}
 public String getNumber() {
 	return number;
 }
