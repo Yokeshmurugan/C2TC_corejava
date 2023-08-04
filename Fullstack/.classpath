@@ -6,6 +6,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="com/cg/day4/accessmain/" kind="src" path="src"/>
-	<classpathentry kind="src" path="src/com/cg/day4/accessmain"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
